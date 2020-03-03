@@ -4,3 +4,4 @@ set guifont=Monospace\ 12
 set lines=40 columns=80
 set foldcolumn=1
 hi clear FoldColumn
+set guicursor=a:blinkon0
