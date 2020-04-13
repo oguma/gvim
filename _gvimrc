@@ -5,3 +5,8 @@ set lines=40 columns=80
 set foldcolumn=1
 hi clear FoldColumn
 set guicursor=a:blinkon0
+
+"https://vim.fandom.com/wiki/Indenting_source_code
+set expandtab
+set shiftwidth=2
+set softtabstop=2
